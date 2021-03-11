@@ -17,17 +17,17 @@ function Header() {
     <div className="header">
       <div className="header__left">
         <img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Facebook_Logo_%282019%29.svg/800px-Facebook_Logo_%282019%29.svg.png"
+          src="https://1000logos.net/wp-content/uploads/2016/11/Facebook-logo.png"
           alt="facebook__logo"
         />
         <div className="header__input">
           <SearchIcon />
-          <input type="text" />
+          <input placeholder="Search Facebook" type="text" />
         </div>
       </div>
 
-      <div className="header__middle">
-        <div className="header__option">
+      <div className="header__center">
+        <div className="header__option header__option--active">
           <HomeIcon fontSize="large" />
         </div>
         <div className="header__option">
