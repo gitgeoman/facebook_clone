@@ -1,4 +1,5 @@
 import "./App.css";
+import Feed from "./Feed";
 import Header from "./Header";
 import Sidebar from "./Sidebar";
 
@@ -9,8 +10,8 @@ function App() {
       <div className="app__body">
         <Sidebar />
         {/* app body */}
-        {/* sidebar */}
-        {/* feed */}
+        <Feed />
+        {/* iframe for widget */}
       </div>
     </div>
   );
