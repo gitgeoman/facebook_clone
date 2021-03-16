@@ -18,25 +18,25 @@ function Feed() {
         image={image}
       /> */}
       <Post
-        profilePic="https://robohash.org/asdf"
+        profilePic="https://robohash.org/asdfef"
         message="simple message"
         timestamp="{timestamp}"
         username="{username}"
-        image="https://robohash.org/asdf"
+        image="https://robohash.org/asdferr"
       />
       <Post
-        profilePic="https://robohash.org/asdf"
+        profilePic="https://robohash.org/asdfdf"
         message="simple message"
         timestamp="{timestamp}"
         username="{username}"
-        image="https://robohash.org/asdf"
+        image="https://robohash.org/asdfff"
       />{" "}
       <Post
         profilePic="https://robohash.org/asdf"
         message="simple message"
         timestamp="{timestamp}"
         username="{username}"
-        image="https://robohash.org/asdf"
+        image="https://robohash.org/asdfaa"
       />
     </div>
   );
