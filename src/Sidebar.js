@@ -12,10 +12,7 @@ import EmojiFlagsIcon from "@material-ui/icons/EmojiFlags";
 function Sidebar() {
   return (
     <div className="sidebar">
-      <SidebarRow
-        src="https://www.wig.wat.edu.pl/index.php/component/joomgallery/image?view=image&format=raw&id=1518&type=thumb"
-        title="Marek"
-      />
+      <SidebarRow src="https://robohash.org/marek" title="Marek" />
       <SidebarRow
         Icon={LocalHospitalIcon}
         title="Covid-19 Information Center"
