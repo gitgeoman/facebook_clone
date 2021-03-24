@@ -4,6 +4,7 @@ import firebase from "firebase";
 const firebaseConfig = {
   apiKey: "AIzaSyBqe3u87jlaBD8hHzG9eHVmynvtIgVJRMA",
   authDomain: "facebook-clone-f665f.firebaseapp.com",
+  databaseURL: "https://facebook-clone-f665f-default-rtdb.firebaseio.com",
   projectId: "facebook-clone-f665f",
   storageBucket: "facebook-clone-f665f.appspot.com",
   messagingSenderId: "530365971572",

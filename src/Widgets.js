@@ -12,7 +12,7 @@ function Widgets() {
         style={{ border: "none", overflow: "hidden" }}
         scrolling="no"
         frameBorder="0"
-        allowtransparency="true"
+        allowTransparency="true"
         allow="encrypted-media"
       ></iframe>
     </div>
